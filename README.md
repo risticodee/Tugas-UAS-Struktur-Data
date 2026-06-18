@@ -199,3 +199,6 @@ Menghapus data buku berdasarkan ID buku.
 ## Kesimpulan
 
 Sistem Manajemen Perpustakaan Berbasis CSV merupakan aplikasi sederhana yang mampu mengelola data buku dan peminjaman dengan memanfaatkan file CSV sebagai media penyimpanan data. Sistem ini telah mengimplementasikan operasi CRUD, struktur data Dictionary dan Queue, algoritma Searching serta Sorting sesuai dengan kebutuhan tugas akhir mata kuliah Struktur Data.
+
+![Flowchart Sistem](Flowchart_Sistem_Perpustakaan.png)
+
